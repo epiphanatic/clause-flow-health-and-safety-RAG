@@ -7,7 +7,8 @@
 
 > A Retrieval-Augmented Generation (RAG) chatbot that provides instant, citation-backed answers to questions about New Zealand's **Health and Safety at Work Act 2015**.
 
-![Demo Screenshot](https://via.placeholder.com/800x400/0066cc/ffffff?text=WorkSafe+NZ+AI+Assistant+Demo)
+![Screenshot 1](https://github.com/epiphanatic/public-images/blob/4d9409a7df04c2f21b09329e71d6b10e4b5ab659/health-safety-demo/screen-1.png?raw=true)
+![Screenshot 2](https://github.com/epiphanatic/public-images/blob/4d9409a7df04c2f21b09329e71d6b10e4b5ab659/health-safety-demo/screen-2.png?raw=true)
 
 ## ✨ Key Features
 
