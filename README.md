@@ -21,8 +21,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/worksafe-nz-ai-assistant.git
-cd worksafe-nz-ai-assistant
+git clone https://github.com/epiphanatic/clause-flow-health-and-safety-RAG
+cd claude-flow-health-safety-demo
 
 # 2. Install dependencies
 pip install -r requirements.txt
