@@ -1,7 +1,7 @@
-# Core Dependencies
-langchain
-langchain-community
-langchain-core
+# Core Dependencies (compatible ranges)
+langchain>=0.2.0,<0.4.0
+langchain-community>=0.2.0,<0.4.0
+langchain-core>=0.2.0,<0.4.0
 
 # PDF Processing
 pypdf
@@ -14,8 +14,8 @@ sentence-transformers
 huggingface-hub
 
 # Anthropic Claude Integration
-anthropic
-langchain-anthropic
+anthropic>=0.25.0
+langchain-anthropic>=0.1.0,<0.4.0
 
 # Web UI
 streamlit
